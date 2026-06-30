@@ -3,8 +3,7 @@ info:
   title: ONU Status API
   version: 1.0.0
 servers:
-- url: https://api.example.com/fttp/v1
-- url: https://staging-api.example.com/fttp/v1
+- url: https://github.com/cablelabs/PON-APIs
 tags:
 - name: Health
 - name: OLTs
